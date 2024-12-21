@@ -72,11 +72,11 @@ int main() {
                 break;
             }
             case 7:
-                return 0; // Exit the program
+                return 0; 
             default:
                 std::cout << "Неверный выбор. Пожалуйста, попробуйте снова.\n";
         }
     }
 
-    return 0; // This line is technically unreachable but is good practice
+    return 0; 
 }
